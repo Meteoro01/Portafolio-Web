@@ -4,7 +4,7 @@ import LinkeDin from "./../assets/icons/LinkeDin.svg";
 import GitHub from "./../assets/icons/GitHubWhite.svg";
 import Instagram from "./../assets/icons/Instagram.svg";
 import YouTube from "./../assets/icons/YouTube.svg";
-import Spotify from "./../assets/icons/spotify.svg";
+import Spotify from "./../assets/icons/LogosSpotify.png";
 const Socials = () => {
   return (
     <div className=" mx-auto mt-6 w-11/12 rounded-3xl md:w-10/12 lg:w-8/12">
